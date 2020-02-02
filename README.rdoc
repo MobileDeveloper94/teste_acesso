@@ -1,4 +1,5 @@
 API desenvolvida por Paulo Duarte.
+
 Tecnologia: AsP .Net Core 2.1.
 
 Endpoints:
@@ -7,9 +8,13 @@ Endpoints:
 
 	[endereco_local]/api/log
 
-	parametros: n„o
+
+	parametros: n√£o.
 	
-	retorno: JSON
+	
+	
+	retorno: JSON.
+	
 	
 	{
 		"id": string,
@@ -18,11 +23,14 @@ Endpoints:
 		"type": string
 	}
 
+
 2)
 	
 	[endereco_local]/api/transferir
 
-	parametros:(Post) JSON
+
+	parametros:(Post) JSON.
+	
 	
 	{
     		"accountOrigin": string,
@@ -30,22 +38,29 @@ Endpoints:
     		"value": float
 	}
 
-	retorno: JSON
+
+	retorno: JSON.
+	
 	
 	{
     		"transactionId": string
 	}
 	
+	
 3)
 	[endereco_local]/api/transferir
 	
-	parametros:(Post) JSON
+	
+	parametros:(Post) JSON.
+	
 	
 	{
     		"transactionId": string
 	}
 
-	retorno: JSON
+
+	retorno: JSON.
+	
 	
 	{
     		
