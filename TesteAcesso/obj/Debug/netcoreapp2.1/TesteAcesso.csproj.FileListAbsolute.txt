@@ -1,0 +1,14 @@
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\bin\Debug\netcoreapp2.1\TesteAcesso.deps.json
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\bin\Debug\netcoreapp2.1\TesteAcesso.runtimeconfig.json
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\bin\Debug\netcoreapp2.1\TesteAcesso.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\bin\Debug\netcoreapp2.1\TesteAcesso.dll
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\bin\Debug\netcoreapp2.1\TesteAcesso.pdb
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.RazorAssemblyInfo.cache
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.RazorAssemblyInfo.cs
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.RazorTargetAssemblyInfo.cache
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.dll
+C:\Users\Paulo\source\repos\TesteAcesso\TesteAcesso\obj\Debug\netcoreapp2.1\TesteAcesso.pdb
