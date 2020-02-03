@@ -1,64 +1,38 @@
-## API desenvolvida por Paulo Duarte.
+API desenvolvida por Paulo Duarte.
+Tecnologia: .NET Core 2.1
 
-## Tecnologia: .NET Core 2.1
+Endpoints:
 
-## Endpoints:
-
- - [endereco_local]/api/log
-
-
-	Parametros: não.
-	
-	Retorno: JSON.
-	
-```	
+ 1 - [endereco_local]/api/log
+Parametros: não.
+Retorno: JSON:	
 	{
 		"id": string,
 		"date": datetime,
 		"transactionId": string,
 		"type": string
 	}
-```
 
- - [endereco_local]/api/transferir
-
-
-	Parametros:(Post) JSON.
-	
-```
+ 2 - [endereco_local]/api/transferir
+Parametros:(Post) JSON.
 	{
     		"accountOrigin": string,
     		"accountDestination": string,
     		"value": float
 	}
-```
-
-	Retorno: JSON.
-	
-```	
+Retorno: JSON.
 	{
     		"transactionId": string
 	}
-```	
-	
- - [endereco_local]/api/transferir
-	
-	
-	Parametros:(Post) JSON.
-	
-```
+
+3 - [endereco_local]/api/transferir
+Parametros:(Post) JSON.
 	{
     		"transactionId": string
 	}
-```
-
-	Retorno: JSON.
-	
-```	
+Retorno: JSON.
 	{
     		
     		"Status": string,
     		"Message": string
-
 	}
-```
